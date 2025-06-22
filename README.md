@@ -22,7 +22,7 @@
 
 > Briefly explain how to get started with the project. This section is for the absolute beginner.
 
-> 1.  Clone the repository
+> 1.  Clone the repository.
 > 2.  Navigate to the project directory
 > 3.  Install dependencies (if any)
 > 4.  Run the application or relevant scripts.
