@@ -1,4 +1,3 @@
-
 # newrepo-testing
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -26,7 +25,7 @@
 > 1.  Clone the repository
 > 2.  Navigate to the project directory
 > 3.  Install dependencies (if any)
-> 4.  Run the application or relevant scripts
+> 4.  Run the application or relevant scripts.
 
 ## Overview
 
